@@ -1,11 +1,11 @@
 # Planner App
 
-![GIF demo of trivia app that cycles through welcome page, game play, and leaderboard]()
+![Screenshot of Planner App. Title of Work Day Schedule, then current date, then hour blocks with sample to do tasks](https://github.com/jacksolaro/planner-app/blob/master/Assets/Planner_Demo.PNG?raw=true)
 
 
-**GitHub Repo:** https://github.com/jacksolaro/trivia
+**GitHub Repo:** https://github.com/jacksolaro/planner-app
 
-**GitHub Pages Link:** https://jacksolaro.github.io/trivia/
+**GitHub Pages Link:** https://jacksolaro.github.io/planner-app/
 
 ## About the project
 This is an app that allows you to plan out your work day! The window is broken out into hour blocks from 9AM to 5PM with an area to input your tasks for each hour.
